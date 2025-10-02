@@ -1,4 +1,4 @@
-# Privacy Policy for [Bot Name]
+# Privacy Policy – Florence Software
 
 **Effective Date:** [Insert Date]
 
@@ -6,8 +6,7 @@
 
 ---
 
-## Information We Collect
-
+## 1. Information We Collect
 We collect only the information necessary to operate the Bot in your server:
 
 - Discord server ID and channel ID(s) where the Bot operates  
@@ -18,8 +17,7 @@ We collect only the information necessary to operate the Bot in your server:
 
 ---
 
-## How We Use Your Information
-
+## 2. How We Use Your Information
 Your data is used to:
 
 - Operate and deliver the Bot’s features  
@@ -31,8 +29,7 @@ We may also use aggregated, anonymized data for analytics and research to develo
 
 ---
 
-## Sharing of Information
-
+## 3. Sharing of Information
 We do **not** sell or rent your personal information to third parties. We may share information only:
 
 - When required by law (e.g., subpoena or court order)  
@@ -42,44 +39,56 @@ Otherwise, your data remains under our control.
 
 ---
 
-## Data Retention
+## 4. Data Retention
+We retain your information only as long as necessary to provide the Bot’s services or as required by law.  
 
-We retain your information only as long as necessary to provide the Bot’s services or as required by law. If your server is inactive for a prolonged period or you request deletion, we will remove your data.
+- Your server ID and user IDs are active while your subscription is active.  
+- Data may be retained for a short period after termination to allow service reactivation.  
+- If your server is inactive for a prolonged period or you request deletion, we will remove your data.
 
 ---
 
-## Data Security
+## 5. Data Security
+We take reasonable measures to protect your data from unauthorized access, alteration, or destruction, including:
 
-We take reasonable measures to protect your data from unauthorized access, alteration, or destruction, including secure servers and up-to-date security practices.  
+- Secure servers  
+- Up-to-date security practices  
 
 **Important:** No system is perfectly secure. We cannot guarantee absolute security.
 
 ---
 
-## Your Rights
+## 6. Compliance with Privacy Laws
+The Bot is provided by an Australian-based provider, so we comply with the **Privacy Act 1988 (Cth)** and the **Australian Privacy Principles (APPs)**.  
 
+In practical terms:
+
+- We collect only information that is necessary  
+- We are transparent about what we collect and why  
+- We protect your data with appropriate security measures  
+- You may request access to, correction of, or deletion of your personal information
+
+---
+
+## 7. Your Rights
 You may:
 
 - Request access to your personal information  
 - Request correction of any errors  
 - Request deletion of your data  
 
-To exercise these rights, contact us at [Your Email]. We will respond to valid requests as soon as reasonably possible.
+To exercise these rights, contact us at **[Your Email]**. We will respond to valid requests as soon as reasonably possible.
 
 ---
 
-## Changes to This Policy
+## 8. Changes to This Policy
+We may update this Privacy Policy from time to time.  
 
-We may update this Privacy Policy occasionally. Updated versions will be posted on our Discord or website. Continued use of the Bot after updates constitutes acceptance of the revised policy.
+- **Continued use of the Bot after updates indicates your acceptance of the revised Privacy Policy**, just like your acceptance of the Terms of Service.
 
 ---
 
-## Contact
-
+## 9. Contact
 For questions about this Privacy Policy or your data, contact us at:
 
-[Your Email]
-
----
-
-**Note for Server Owners:** Server owners are responsible for informing their members about this Privacy Policy.
+**[Your Email]**
