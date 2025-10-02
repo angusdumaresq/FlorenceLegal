@@ -1,0 +1,109 @@
+# Terms of Service – Florence Software
+
+**THIS BOT IS A MATHEMATICAL SIMULATION TOOL ONLY AND IS NOT GAMBLING ADVICE. DO NOT USE THIS BOT AS A BASIS FOR PLACING REAL WORLD BETS.**
+
+---
+
+## 1. Agreement
+This Agreement is between ABN 86 815 895 979 ("Bot Owner," "we," "us") and any Discord user ("you" or "User") of the Bot.
+
+By adding, subscribing to, or using the Bot, you agree to be bound by these Terms. If you do not agree, **do not use the Bot**.
+
+---
+
+## 2. License and Use
+The Bot Owner grants you a **limited, non-exclusive, non-transferable, revocable license** to use the Bot strictly within Discord for personal, non-commercial use.
+
+You may not:  
+- Resell, redistribute, or copy the Bot or any of its output.  
+- Reverse-engineer, modify, or create derivative works of the Bot.  
+- Use the Bot outside the scope of this Agreement.
+
+All intellectual property rights in the Bot remain the property of the Bot Owner.
+
+---
+
+## 3. Eligibility, Compliance, and Assumption of Risk
+You represent and warrant that you are **at least 18 years old** and of legal age to participate in gambling activities in your jurisdiction.
+
+**You acknowledge that gambling is high-risk and may lead to financial loss, addiction, or personal harm.** You assume all risks associated with gambling.
+
+By using this Bot:  
+- You confirm you meet all legal age and eligibility requirements in your jurisdiction.  
+- You agree to comply with all applicable laws and regulations.  
+- You agree not to use the Bot to place any wager that is illegal in your jurisdiction.  
+- You acknowledge that the Bot Owner is not responsible for any illegal use.
+
+---
+
+## 4. Prohibited Use
+You agree not to use the Bot for any illegal or unauthorized purpose, including:  
+- Coordinating, promoting, or engaging in illegal gambling.  
+- Violating Discord’s Terms of Service or Community Guidelines.  
+- Transmitting spam, malware, or infringing content.  
+- Using the Bot’s output for real-money gambling where prohibited.
+
+---
+
+## 5. Nature of Service – Theoretical & Educational Only
+The Bot is a **mathematical simulation tool**. Its purpose is educational and for **demonstrating theoretical calculations**.
+
+### Methodology
+1. Collects publicly available odds from Pinnacle bookmaker.  
+2. Applies a mathematical "devigging" process to remove theoretical margins, estimating “true” probabilities.  
+3. Compares these probabilities to other bookmakers’ odds.  
+4. Calculates a theoretical Expected Value (EV) for demonstration purposes.
+
+**Important:**  
+- EV is theoretical and does **not guarantee a profit**.  
+- Outputs depend on third-party data, which may be inaccurate or outdated.  
+- Betting markets are volatile; results may change rapidly.  
+- Past performance or theoretical calculations do **not guarantee future outcomes**.  
+
+**The Bot is NOT providing gambling, financial, or professional advice.**
+
+---
+
+## 6. No Warranties
+The Bot is provided **"AS IS"** and **"AS AVAILABLE"**. The Bot Owner makes no warranties, including:  
+- Accuracy, reliability, or timeliness of the Bot or third-party data.  
+- Fitness for gambling, financial, or any other purpose.  
+- Continuous, uninterrupted, or error-free operation.
+
+Any reliance on the Bot or third-party data is **entirely at your own risk**.
+
+---
+
+## 7. Limitation of Liability
+To the maximum extent allowed by law, the Bot Owner will **not be liable** for any damages, including:  
+- Gambling or financial losses.  
+- Service interruptions, data loss, or corruption.  
+- Personal harm or addiction.  
+- Any other loss arising from the use or inability to use the Bot.
+
+---
+
+## 8. Indemnification
+You agree to **indemnify and hold harmless** the Bot Owner and affiliates from claims, losses, or expenses arising from:  
+- Your use or misuse of the Bot.  
+- Violation of these Terms or any law.  
+- Any illegal gambling activity you undertake.
+
+---
+
+## 9. Termination
+Either party may terminate this Agreement at any time.  
+Upon termination, you must immediately cease using the Bot.  
+Sections **Nature of Service, No Warranties, Limitation of Liability, and Indemnification** survive termination.
+
+---
+
+## 10. Governing Law
+These Terms are governed by the laws of **New South Wales, Australia**.  
+Disputes will be resolved in the courts of New South Wales, unless required otherwise by law.
+
+---
+
+## 11. Entire Agreement
+These Terms constitute the **entire agreement** regarding the Bot.  
+The Bot Owner may update these Terms at any time. Continued use after updates indicates acceptance.
