@@ -1,0 +1,84 @@
+<script>
+    import Nav from '$lib/components/Nav.svelte';
+</script>
+
+<Nav />
+
+<section class="container py-5">
+  <h1>Privacy Policy – Florence Software</h1>
+  <hr />
+
+  <p>Florence is committed to protecting your privacy. This Privacy Policy explains what data we collect when you use the Bot, how we use it, and your rights regarding that data.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>We collect only the information necessary to operate the Bot in your server:</p>
+  <ul>
+    <li>Discord server ID and channel ID(s) where the Bot operates</li>
+    <li>Discord user IDs of server members (to manage access/subscriptions)</li>
+    <li>Total number of members in the server</li>
+  </ul>
+  <p><strong>Note:</strong> We do <strong>not</strong> store your messages, personal chats, or any other sensitive personal data. This is limited to basic identifiers and usage information.</p>
+
+  <h2>2. How We Use Your Information</h2>
+  <p>Your data is used to:</p>
+  <ul>
+    <li>Operate and deliver the Bot’s features</li>
+    <li>Monitor usage and improve the Bot</li>
+    <li>Provide support to users</li>
+    <li>Manage subscriptions and billing</li>
+  </ul>
+  <p>We may also use aggregated, anonymized data for analytics and research to develop new features. We do <strong>not</strong> use your data for unrelated purposes.</p>
+
+  <h2>3. Sharing of Information</h2>
+  <p>We do <strong>not</strong> sell or rent your personal information to third parties. We may share information only:</p>
+  <ul>
+    <li>When required by law (e.g., subpoena or court order)</li>
+    <li>To protect our legal rights</li>
+  </ul>
+  <p>Otherwise, your data remains under our control.</p>
+
+  <h2>4. Data Retention</h2>
+  <p>We retain your information only as long as necessary to provide the Bot’s services or as required by law.</p>
+  <ul>
+    <li>Your server ID and user IDs are active while your subscription is active.</li>
+    <li>Data may be retained for a short period after termination to allow service reactivation.</li>
+    <li>If your server is inactive for a prolonged period or you request deletion, we will remove your data.</li>
+  </ul>
+
+  <h2>5. Data Security</h2>
+  <p>We take reasonable measures to protect your data from unauthorized access, alteration, or destruction, including:</p>
+  <ul>
+    <li>Secure servers</li>
+    <li>Up-to-date security practices</li>
+  </ul>
+  <p><strong>Important:</strong> No system is perfectly secure. We cannot guarantee absolute security.</p>
+
+  <h2>6. Compliance with Privacy Laws</h2>
+  <p>The Bot is provided by an Australian-based provider, so we comply with the <strong>Privacy Act 1988 (Cth)</strong> and the <strong>Australian Privacy Principles (APPs)</strong>.</p>
+  <p>In practical terms:</p>
+  <ul>
+    <li>We collect only information that is necessary</li>
+    <li>We are transparent about what we collect and why</li>
+    <li>We protect your data with appropriate security measures</li>
+    <li>You may request access to, correction of, or deletion of your personal information</li>
+  </ul>
+
+  <h2>7. Your Rights</h2>
+  <p>You may:</p>
+  <ul>
+    <li>Request access to your personal information</li>
+    <li>Request correction of any errors</li>
+    <li>Request deletion of your data</li>
+  </ul>
+  <p>To exercise these rights, contact us at <strong>florencehelpdesk@outlook.com</strong>. We will respond to valid requests as soon as reasonably possible.</p>
+
+  <h2>8. Age Restrictions</h2>
+  <p>The Bot is intended for users <strong>18 years or older</strong>. We do not knowingly collect personal information from minors.</p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time.</p>
+  <p><strong>Continued use of the Bot after updates indicates your acceptance of the revised Privacy Policy</strong>, just like your acceptance of the Terms of Service.</p>
+
+  <h2>10. Contact</h2>
+  <p>For questions about this Privacy Policy or your data, contact us at: <strong>florencehelpdesk@outlook.com</strong></p>
+</section>
